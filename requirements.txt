@@ -1,0 +1,10 @@
+asgiref==3.6.0
+coverage==7.1.0
+Django==4.1.6
+sqlparse==0.4.3
+tzdata==2022.7
+
+
+# coverage run --omit='*/env/*' manage.py test : does not run test in env folder
+# folder named htmlcov gets created as soon as coverage.html is run after the previous command
+# go to ur project folder --> tests.py --> from django.test import Testcase
