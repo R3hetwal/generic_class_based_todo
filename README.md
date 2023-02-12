@@ -1,5 +1,5 @@
 # Todo 
-'This is a simple todo web-app using django.
+This is a simple todo web-app using django.
 * Here I have created Custom User Model.
 * Custom Forms is created for login and signup.
 * Also includes email domain validation and password validation (alphanumeric passwords with special characters).
